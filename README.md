@@ -36,12 +36,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelBaker&layout=compact&theme=dracula" alt="Principais Linguagens"/>
 </div>
 
----
-
-## 🤝 Conecte-se Comigo  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kelvin-henrique-507bb9228/" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvin-h-507bb9228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kelhenrique_/" target="_blank">
@@ -51,8 +48,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
-
-✨ **Obrigado por visitar meu perfil!** 😊
 
