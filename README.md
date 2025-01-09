@@ -1,11 +1,8 @@
-##   🌟 Olá, meu nome é **Kelvin Henrique**!
-
+## 🌟 Olá, meu nome é **Kelvin Henrique**!
 
 - 🏬  Desenvolvedor Full Stack com especialização em **React**, **Node.js**, **Ruby** e **Express**.  
 - 🔭  Explorando novas tecnologias e desenvolvendo soluções de software.  
 - 🛠️  Sempre aprendendo mais sobre **Ruby** e **melhorando minhas habilidades no desenvolvimento backend e frontend**.  
-
-
 
 ## 🚀 Minhas Skills
 
@@ -20,6 +17,8 @@
 
 ### **Ferramentas e Versionamento**
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 
 ## 🏆 Qualidades Pessoais  
 
@@ -56,3 +55,4 @@
 ---
 
 ✨ **Obrigado por visitar meu perfil!** 😊
+
