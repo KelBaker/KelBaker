@@ -1,29 +1,64 @@
-# 💻 Kelvin Henrique | Desenvolvedor Front-End
+# 💻 Kelvin Henrique | Desenvolvedor Full Stack
 
 ## 🌟 Sobre Mim
 
-Olá, tudo bem? Eu me sou Kelvin Henrique, um desenvolvedor front-end apaixonado por criar interfaces de usuário dinâmicas e responsivas. Tenho experiência em JavaScript, React, CSS, HTML e TypeScript. Adoro transformar ideias em realidade através do código.
+Olá! 👋 Eu sou o **Kelvin Henrique**, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com formação em **Desenvolvimento Front-end e Full Stack** pela **Escola DNC**, dedico-me a criar soluções escaláveis e interfaces responsivas, sempre aplicando práticas modernas de desenvolvimento e foco na experiência do usuário. 🚀  
 
-Sou um amante da tecnologia e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades. Atualmente, sou estudante na escola DNC, onde continuo aprimorando minhas competências técnicas e explorando novas áreas de interesse.
+Atualmente, estou me aprofundando em **Ruby** e explorando maneiras de entregar soluções ainda mais robustas no desenvolvimento de software.  
 
-Estou aberto a novas oportunidades e desafios que me permitam contribuir com projetos inovadores e de alto impacto. Se você está procurando um desenvolvedor dedicado e entusiasta, vamos conversar!
+💡 **O que me motiva?**  
+- Resolver problemas complexos de forma criativa e eficiente.  
+- Trabalhar em equipe para criar soluções impactantes.  
+- Estar sempre aprendendo e evoluindo!  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Minhas Skills
 
-![Estatísticas do GitHub de Kelvin](https://github-readme-stats.vercel.app/api?username=KelBaker&show_icons=true&theme=dracula)
-![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=KelBaker&layout=compact&theme=dracula)
+### **Frontend**
+[![Frontend Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css)](https://skillicons.dev)
 
-## 🤝 Conecte-se Comigo
+### **Backend**
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,ruby)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-henrique-507bb9228/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelhenrique_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelbaker56@gmail.com)
+### **Banco de Dados**
+[![Banco de Dados](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
 
+### **Ferramentas e Versionamento**
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
+## 🏆 Qualidades Pessoais  
 
+🔹 Proatividade e orientação para resultados  
+🔹 Rápida adaptação e aprendizado contínuo  
+🔹 Excelentes habilidades analíticas e de resolução de problemas  
+🔹 Comunicação eficaz e trabalho em equipe 
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelBaker&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Kelvin"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelBaker&layout=compact&theme=dracula" alt="Principais Linguagens"/>
+</div>
+
+---
+
+## 🤝 Conecte-se Comigo  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelvin-henrique-507bb9228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kelhenrique_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kelbaker56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+✨ **Obrigado por visitar meu perfil!** 😊
