@@ -1,15 +1,9 @@
-# 💻 Kelvin Henrique | Desenvolvedor Full Stack
+##  💻 Olá, meu nome é **Kelvin Henrique**!
+---
 
-## 🌟 Sobre Mim
-
-Olá! 👋 Eu sou o **Kelvin Henrique**, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com formação em **Desenvolvimento Front-end e Full Stack** pela **Escola DNC**, dedico-me a criar soluções escaláveis e interfaces responsivas, sempre aplicando práticas modernas de desenvolvimento e foco na experiência do usuário. 🚀  
-
-Atualmente, estou me aprofundando em **Ruby** e explorando maneiras de entregar soluções ainda mais robustas no desenvolvimento de software.  
-
-💡 **O que me motiva?**  
-- Resolver problemas complexos de forma criativa e eficiente.  
-- Trabalhar em equipe para criar soluções impactantes.  
-- Estar sempre aprendendo e evoluindo!  
+- 🏬  Desenvolvedor Full Stack com especialização em **React**, **Node.js**, **Ruby** e **Express**.  
+- 🔭  Explorando novas tecnologias e desenvolvendo soluções de software.  
+- 🚀  Sempre aprendendo mais sobre **Ruby** e **melhorando minhas habilidades no desenvolvimento backend e frontend**.  
 
 ---
 
