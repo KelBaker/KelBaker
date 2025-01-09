@@ -4,7 +4,7 @@
 
 -  Desenvolvedor Full Stack com especialização em **React**, **Node.js**, **Ruby** e **Express**.  
 -  Explorando novas tecnologias e desenvolvendo soluções de software.  
--  Sempre aprendendo mais sobre **Ruby** e **melhorando minhas habilidades no desenvolvimento backend e frontend**.  
+-  Aprendendo mais sobre **Ruby** e **melhorando minhas habilidades no desenvolvimento backend e frontend**.  
 
 ## 🚀 Minhas Skills
 
