@@ -12,7 +12,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css)](https://skillicons.dev)
 
 ### **Backend**
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,ruby)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=python,nodejs,express)](https://skillicons.dev)
 
 ### **Banco de Dados**
 [![Banco de Dados](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
