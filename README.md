@@ -1,4 +1,4 @@
-![Meu Banner](https://github.com/KelBaker/KelBaker/raw/main/meu%20banner.png)
+![Meu Banner](https://raw.githubusercontent.com/KelBaker/KelBaker/main/banner%202.png)
 
 # 💻 Kelvin Henrique — Full Stack Dev
 
